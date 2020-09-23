@@ -1,2 +1,2 @@
-# rolodorks-firebase
+# rolodorks-strapi
 full-stack proof of concept
